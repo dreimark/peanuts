@@ -1,2 +1,2 @@
 # peanuts
-peanuts Kassenbuch, Belege und Salden
+scan, convert, ocr to a/pdf
